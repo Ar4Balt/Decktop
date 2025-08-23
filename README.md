@@ -9,12 +9,14 @@
 
 ## 🖥️ Royal TSX  
 
-<img src="https://www.royaltsx.com/static/img/macbook_tsx.png" alt="Royal TSX Screenshot" width="600"/>  
+<img src="https://royalapps.com/images/2x/header_logo_royalts_mac_active.png" alt="Royal TSX Screenshot" width="600"/>  
 
 > Универсальный клиент для удалённых подключений (RDP, SSH, VNC и многое другое).  
 Использую для управления серверами и инфраструктурой.  
 
-🔗 [Сайт Royal TSX](https://www.royaltsx.com)  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Froyalapps.com%2Fimages%2F2x%2Fsplash_screenshot_ts_mac_1.png&f=1&nofb=1&ipt=3c3747f86eec571e4c250796107aa34a29dab60f1b572af0f7e0409399325feb" width="600"/>
+
+🔗 [Сайт Royal TSX](https://royalapps.com/ts/mac/features)  
 
 ---
 
