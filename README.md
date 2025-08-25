@@ -30,27 +30,6 @@
 
 ---
 
-## 🐳 Docker  
-
-<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-run.png" alt="Docker" width="500"/>  
-
-> Использую для контейнеризации и запуска приложений в изолированных средах.  
-
-🔗 [Docker](https://www.docker.com/)  
-
----
-
-## ⚡ GitHub Desktop  
-
-<img src="https://desktop.github.com/images/github-desktop-screenshot.png" alt="GitHub Desktop" width="600"/>  
-
-> Удобный инструмент для работы с Git и репозиториями.  
-
-🔗 [GitHub Desktop](https://desktop.github.com/)  
-
----
-
-
 ## 📞 Контакты  
 
 📧 **tunnikovartur@gmail.com**  
