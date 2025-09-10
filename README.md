@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>  
 
 ---
-
+ 
 ## 🖥️ Royal TSX  
 
 <img src="https://royalapps.com/images/2x/header_logo_royalts_mac_active.png" alt="Royal TSX Screenshot" width="600"/>  
