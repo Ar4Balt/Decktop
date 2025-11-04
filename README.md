@@ -19,6 +19,18 @@
 🔗 [Сайт Royal TSX](https://royalapps.com/ts/mac/features)  
 
 ---
+ 
+## Tabby
+
+<img src="https://tabby.sh/32bf32ff6c87e8d18932.svg" width="100"/>  
+
+> Универсальный терминал для одновременной работы с несколькими подключениями (RDP, SSH, VNC и многое другое).
+
+<img src="https://tabby.sh/b3698dea6520b70d4c4b.png" width="600"/>
+
+🔗 [Сайт Tabby](https://tabby.sh)  
+
+---
 
 ## 📊 VS Code  
 
